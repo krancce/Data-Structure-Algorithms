@@ -1,1 +1,1 @@
-### This repository contains different data-structures self-implemented
+### This repository contains common data-structures and algorithms of self-implemented
